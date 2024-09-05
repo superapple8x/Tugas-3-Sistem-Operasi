@@ -107,7 +107,7 @@ Menjelaskan 50 perintah Linux
 
 15. `head` adalah perintah untuk menampilkan bagian atas konten dari sebuah file.
 
-    ![head command](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/15.png)
+    ![head command](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/15-1.png)
 
     **Merah:** Perintah `head` diikuti dengan nama file target
 
