@@ -253,7 +253,7 @@ Menjelaskan 50 perintah Linux
 
 38. `nethogs` adalah perintah yang berfungsi untuk menampilkan trafik jaringan.
 
-![Gambar 35](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/35.PNG)
+![Gambar 35](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/35.png)
 
 39. `hostname` adalah perintah yang berfungsi untuk menampilkan nama host.
 
