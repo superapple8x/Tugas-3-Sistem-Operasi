@@ -279,14 +279,14 @@ Menjelaskan 50 perintah Linux
 
 42. `ip` adalah perintah yang menampilkan informasi perangkat jaringan pada sistem.
 
-![Gambar 39](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/39.PNG)
+![Gambar 39](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/39.png)
 
 - **Merah:** Perintah `ip` diikuti dengan opsi yang ingin ditampilkan.
 - **Hijau:** Informasi yang ditampilkan oleh perintah `ip`.
 
 43. `netstat` adalah perintah yang menampilkan informasi tentang koneksi jaringan, interface jaringan, dll.
 
-![Gambar 40](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/40.PNG)
+![Gambar 40](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/40.png)
 
 - **Merah:** Perintah `netstat` yang diikuti dengan opsi yang ingin ditampilkan.
 - **Hijau:** Informasi yang ditampilkan berkat perintah `netstat`.
