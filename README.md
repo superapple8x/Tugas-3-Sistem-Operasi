@@ -154,3 +154,146 @@ Menjelaskan 50 perintah Linux
     **Merah:** Perintah `wget`  
     **Hijau:** Link yang dituju  
     **Jingga:** Hasil unduhan
+
+21. `sudo` adalah perintah yang akan memberikan hak superuser kepada suatu pengguna di dalam komputer untuk sementara.
+
+![Gambar 21](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/21.png)
+
+- **Hijau:** Perintah yang dijalankan tanpa `sudo`, dalam kasus ini, Package Manager menolak untuk menjalankan tugasnya.
+- **Merah:** Perintah yang sama, dijalankan dengan `sudo`, Package Manager menjalankan tugasnya.
+
+22. `cal` adalah perintah yang berfungsi untuk menampilkan kalender dari bulan dan tahun yang diinginkan.
+
+![Gambar 22](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/22.png)
+
+- **Merah:** Perintah `cal` diikuti dengan bulan dan tahun yang diinginkan.
+- **Hijau:** Kalender dari bulan yang diinginkan.
+
+23. `alias` adalah perintah yang memberikan nama alternatif dari sebuah perintah untuk dipanggil (tidak mengganti nama asli).
+
+![Gambar 23](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/23.png)
+
+- **Merah:** Perintah `alias` diikuti dengan nama alias yang diinginkan diikuti dengan perintah yang ingin dibuat nama aliasnya.
+- **Hijau:** Perintah lain dijalankan menggunakan nama aliasnya, berjalan seperti biasa.
+
+24. `whereis` adalah perintah yang akan menampilkan dimana direktori dari program lain.
+
+![Gambar 24](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/24.png)
+
+- **Merah:** Perintah `whereis` diikuti dengan nama program yang ingin diketahui direktorinya.
+- **Hijau:** Direktori dari program tersebut.
+
+25. `whatis` adalah perintah yang akan menampilkan deskripsi dari sebuah perintah atau program.
+
+![Gambar 25](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/25.png)
+
+- **Merah:** Perintah `whatis` diikuti dengan nama perintah atau command yang diinginkan.
+- **Hijau:** Deskripsi perintah yang ditampilkan oleh `whatis`.
+
+26. `sort` adalah perintah yang akan menyortir konten file berdasarkan kriteria tertentu.
+
+![Gambar 26](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/26.png)
+
+- **Merah:** Perintah `file` diikuti dengan perintah lain yang menampilkan konten file yang juga diikuti dengan nama file target.
+- **Hijau:** Konten file yang telah tersortir.
+
+27. `diff` adalah perintah untuk mencari perbedaan di antara dua file yang berbeda.
+
+![Gambar 27](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/27.png)
+
+- **Merah:** Perintah `diff` yang diikuti dengan opsi dan nama file target yang ingin ditampilkan perbedaannya.
+- **Hijau:** Info file dan perbedaannya.
+
+28. `tee` adalah perintah yang berfungsi untuk mencatat hasil output dari sebuah perintah yang akan dijalankan.
+
+![Gambar 28](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/28.png)
+
+- **Merah:** Perintah `tee` yang diikuti dengan opsi, lalu nama file yang akan dibuat yang akan menampung hasil catatan output kemudian.
+- **Hijau:** Konten dari file yang ditulis oleh perintah `tee`, menampilkan output dari perintah yang diinginkan.
+
+29. `ping` adalah perintah yang akan mengirim ping kepada address yang dituju.
+
+![Gambar 29](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/29.png)
+
+- **Merah:** Perintah `ping` diikuti dengan address yang dituju.
+- **Hijau:** Output dari perintah `ping`, menampilkan bahwa address telah merespon.
+
+30. `find` adalah perintah yang akan mencari direktori dari file tertentu.
+
+![Gambar 30](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/30.png)
+
+- **Merah:** Perintah `find` diikuti dengan direktori, opsi, dan nama file target.
+- **Hijau:** Direktori dari file target.
+
+31. `su` adalah perintah yang berfungsi untuk masuk ke akun pengguna lain, tanpa nama akun, secara default akan masuk ke akun root.
+
+![Gambar 31](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/31.png)
+
+- **Hijau:** Perintah dijalankan tidak sebagai root, program menolak untuk melakukan tugas.
+- **Merah:** Perintah `su`, kemudian diikuti dengan permintaan password untuk bisa masuk ke akun yang diinginkan.
+
+32-35. `useradd` adalah perintah yang akan membuat akun baru, `passwd` adalah perintah yang akan membuat password untuk akun tertentu, dan `userdel` adalah perintah yang akan menghapus akun tertentu.
+
+![Gambar 32](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/32.png)
+
+- **Merah:** Perintah `useradd` diikuti dengan nama akun yang akan dibuat.
+- **Ungu:** Perintah `passwd` diikuti dengan nama akun yang akan dibuat passwordnya.
+- **Biru:** Perintah `userdel` diikuti dengan nama akun yang akan dihapus.
+
+36. `df` adalah perintah yang menampilkan informasi tentang sistem file, penggunaan dalam sistem, dll.
+
+![Gambar 33](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/33.png)
+
+- **Merah:** Perintah `df`, dapat diikuti dengan opsi tertentu untuk menampilkan informasi tertentu saja.
+- **Hijau:** Informasi yang ditampilkan berkat perintah `df`.
+
+37. `top` adalah perintah yang berfungsi untuk menampilkan atau memonitor informasi penggunaan sistem termasuk PID, pemilik proses, perintah, penggunaan CPU, dll.
+
+![Gambar 34](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/34.png)
+
+38. `nethogs` adalah perintah yang berfungsi untuk menampilkan trafik jaringan.
+
+![Gambar 35](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/35.png)
+
+39. `hostname` adalah perintah yang berfungsi untuk menampilkan nama host.
+
+![Gambar 36](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/36.png)
+
+- **Merah:** Perintah `hostname` diikuti dengan opsi.
+- **Hijau:** Nama host.
+
+40. `time` adalah perintah yang berfungsi untuk mengukur waktu yang digunakan oleh sebuah program atau perintah berjalan.
+
+![Gambar 37-1](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/37-1.png)
+![Gambar 37-2](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/37-2.png)
+
+- **Merah:** Perintah `time` diikuti dengan nama program atau perintah yang diukur waktunya.
+- **Hijau:** Waktu yang digunakan oleh perintah atau program selama berjalan.
+
+41. `watch` adalah perintah yang akan mengeksekusi sebuah perintah dengan interval tertentu.
+
+![Gambar 38](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/38.png)
+
+- **Merah:** Perintah `watch` diikuti dengan perintah yang akan dieksekusi.
+- **Hijau:** Output perintah selama berjalan.
+
+42. `ip` adalah perintah yang menampilkan informasi perangkat jaringan pada sistem.
+
+![Gambar 39](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/39.png)
+
+- **Merah:** Perintah `ip` diikuti dengan opsi yang ingin ditampilkan.
+- **Hijau:** Informasi yang ditampilkan oleh perintah `ip`.
+
+43. `netstat` adalah perintah yang menampilkan informasi tentang koneksi jaringan, interface jaringan, dll.
+
+![Gambar 40](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/40.png)
+
+- **Merah:** Perintah `netstat` yang diikuti dengan opsi yang ingin ditampilkan.
+- **Hijau:** Informasi yang ditampilkan berkat perintah `netstat`.
+
+44. `nslookup` adalah perintah yang menampilkan informasi terkait dengan DNS yang dituju.
+
+![Gambar 41](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/41.png)
+
+- **Merah:** Perintah `nslookup` diikuti dengan DNS yang dituju.
+- **Hijau:** Informasi dari DNS yang dituju.
