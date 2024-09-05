@@ -300,14 +300,14 @@ Menjelaskan 50 perintah Linux
 
 45. `history` adalah perintah yang menampilkan riwayat perintah yang telah dijalankan.
 
-![Gambar 42](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/42.png)
+![Gambar 42](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/42.PNG)
 
 - **Merah:** Perintah `history`.
 - **Hijau:** Riwayat perintah yang pernah dijalankan.
 
 46. `lscpu` adalah perintah yang menampilkan informasi CPU.
 
-![Gambar 43](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/43.png)
+![Gambar 43](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/43.PNG)
 
 - **Merah:** Perintah `lscpu`.
 - **Hijau:** Informasi CPU.
