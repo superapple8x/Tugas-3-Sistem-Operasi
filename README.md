@@ -297,3 +297,43 @@ Menjelaskan 50 perintah Linux
 
 - **Merah:** Perintah `nslookup` diikuti dengan DNS yang dituju.
 - **Hijau:** Informasi dari DNS yang dituju.
+
+45. `history` adalah perintah yang menampilkan riwayat perintah yang telah dijalankan.
+
+![Gambar 42](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/42.png)
+
+- **Merah:** Perintah `history`.
+- **Hijau:** Riwayat perintah yang pernah dijalankan.
+
+46. `lscpu` adalah perintah yang menampilkan informasi CPU.
+
+![Gambar 43](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/43.png)
+
+- **Merah:** Perintah `lscpu`.
+- **Hijau:** Informasi CPU.
+
+47. `reboot` adalah perintah yang akan memulai ulang sistem.
+
+![Gambar 44](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/44.png)
+
+48. `shutdown` adalah perintah yang akan mematikan sistem, dapat diikuti dengan opsi.
+
+![Gambar 45](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/45.png)
+
+- **Merah:** Perintah `shutdown` diikuti dengan opsi waktu pengeksekusian dan pesan yang ingin ditampilkan.
+- **Hijau:** Konfirmasi bahwa perintah berhasil dijadwalkan.
+
+49. `uptime` adalah perintah yang menampilkan informasi waktu, jumlah pengguna, dll.
+
+![Gambar 46](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/46.png)
+
+- **Merah:** Perintah `uptime`.
+- **Hijau:** Informasi yang ditampilkan berkat perintah `uptime`.
+
+50. `exit` adalah perintah yang berfungsi untuk meninggalkan terminal.
+
+![Gambar 47](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/47.png)
+
+51. `neofetch` adalah perintah yang berfungsi untuk menampilkan informasi sistem, termasuk nama OS, Host, Kernel, dll.
+
+![Gambar 48](https://github.com/superapple8x/Tugas-3-Sistem-Operasi/blob/main/gambar/48.png)
